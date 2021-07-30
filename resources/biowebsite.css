@@ -1,0 +1,140 @@
+p, h1, h2, h3, h4, h5, h6, span, button {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-header {
+    text-align: center;
+    color: white;
+    background-color: navy;
+    height:200px;
+    font-size: 150px;
+    border-radius: 20px;
+    border: white dotted 8px;
+    margin-top: 100px;
+} 
+
+.bio-header {
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
+.bio-group {
+    margin-top: 60px;
+    margin-left: 25px;
+}
+
+.bio-img {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
+
+.bio-name {
+    font-weight:initial;
+    font-size: 75px;
+}
+
+.bio-title {
+    font-size: 25px;
+    font-size: 25px;
+}
+
+.bio-accomps {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.bio-text {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.divider {
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #0000FF80;
+}
+
+/* h1 {
+    text-align: center;
+    color: white;
+    background-color: navy;
+    height:200px;
+    font-size: 150px;
+    position: relative;
+    border-radius: 20px;
+    border: white dotted 8px;
+} */
+/* 
+img {
+    border-radius: 50%;
+    height: 250px;
+    width: 275px;
+    size: 5px;
+    margin-left: 20px;
+    margin-right:auto;
+    object-fit: cover;
+} */
+/* h3 {
+    font-weight:initial;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 75px;
+    text-align: right;
+    margin-top: 20px ;
+    margin-right: 250px;
+    display:block;
+    float: right;
+}
+h4 {
+    font-size: 25px;
+}
+
+
+.subtitle{
+    text-align: center ;
+    font-size: 25px;
+    display: block ;
+    float: right;
+    padding-right: 20px;
+    margin-top: auto ;
+    margin-right: auto;
+}
+
+.photo-title {
+    
+    font-weight: bold;
+
+}
+p {
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+}
+.accomp {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+} */
+/*.text-block {
+    position:relative;
+    bottom: 50px;
+    right: 50px;
+    left: 50px;
+    background-color: navy;
+    color:white;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 8px dotted white;
+    border-radius: 20px;
+    text-align: center;
+}*/
